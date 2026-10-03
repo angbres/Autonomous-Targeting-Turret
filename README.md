@@ -9,6 +9,7 @@ The turret uses an **Arduino Uno**, an ultrasonic sensor, servo motors, DC motor
 ## Project Demonstration
 
 [![Watch the Autonomous Turret Demonstration](https://img.youtube.com/vi/yytC-jThPk0/0.jpg)](https://youtu.be/yytC-jThPk0)
+
 Click the image above to watch the completed system detect a target, load a projectile, fire, and continue scanning.
 
 ## Design Development
