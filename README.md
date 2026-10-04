@@ -16,6 +16,9 @@ The turret uses an **Arduino Uno**, an ultrasonic sensor, servo motors, DC motor
 
 ![Firing mechanism design iteration](images/design_iteration.png)
 
+Fig.3 is the Pre-Demo design did not include the only extended bar on the first servo.
+Fig.4 is the original design, which included one servo
+
 A major part of the project was redesigning the firing mechanism through repeated testing. The original launcher used two DC-motor-driven wheels, but the initial wheel speed was not high enough to produce useful launch performance. A **3:1 gear ratio** was introduced to increase rotational speed, and further mechanical changes were made to increase the force applied to the projectile and guide it more accurately through the center of the turret.
 
 The reloading mechanism also went through multiple iterations. The first version used a single servo, but the mechanism could release more than one projectile because the servo did not recover quickly enough. The final design added a second servo and synchronized the two actuators in software so that only one projectile entered the firing chamber at a time.
