@@ -10,7 +10,7 @@ The turret uses an **Arduino Uno**, an ultrasonic sensor, servo motors, DC motor
 
 [![Watch the Autonomous Turret Demonstration](https://img.youtube.com/vi/yytC-jThPk0/0.jpg)](https://youtu.be/yytC-jThPk0)
 
-**▶ [WATCH THE AUTONOMOUS TURRET DEMONSTRATION](https://youtu.be/NEeeBO8jd7I)**
+**▶ [WATCH THE AUTONOMOUS TURRET DEMONSTRATION]([https://youtu.be/NEeeBO8jd7I](https://youtu.be/yytC-jThPk0?si=KRlvUD-W8HcW9ogD))**
 
 ## Design Development
 
